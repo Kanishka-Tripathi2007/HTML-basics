@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute Page</title>
+</head>
+<body>
+
+<h1>Dr. A.P.J. Abdul Kalam</h1>
+
+<img src="kalam.jpg" width="250">
+
+<p>
+Dr. A.P.J. Abdul Kalam was known as the "Missile Man of India"
+and served as the 11th President of India.
+</p>
+
+<h2>Achievements</h2>
+<ul>
+    <li>Bharat Ratna Award</li>
+    <li>ISRO Scientist</li>
+    <li>President of India (2002-2007)</li>
+</ul>
+
+</body>
+</html>
