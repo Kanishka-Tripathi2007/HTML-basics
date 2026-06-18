@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Page</title>
+</head>
+<body>
+
+<h1>Wireless Headphones</h1>
+
+<img src="headphones.jpg" width="250">
+
+<h2>Price: ₹1,999</h2>
+
+<p>
+Experience premium sound quality with noise cancellation and long battery life.
+</p>
+
+<button>Add to Cart</button>
+
+</body>
+</html>
