@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Blog</title>
+</head>
+<body>
+
+<header>
+    <h1>My Tech Blog</h1>
+</header>
+
+<article>
+    <h2>Introduction to HTML</h2>
+
+    <p>
+        HTML is the standard markup language used to create webpages.
+    </p>
+
+    <a href="#">Read More</a>
+</article>
+
+<hr>
+
+<article>
+    <h2>Why Learn CSS?</h2>
+
+    <p>
+        CSS helps make websites attractive and responsive.
+    </p>
+
+    <a href="#">Read More</a>
+</article>
+
+</body>
+</html>
