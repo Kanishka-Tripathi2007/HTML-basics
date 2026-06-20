@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+</head>
+<body>
+
+<h1>HTML Quiz</h1>
+
+<p>1. What does HTML stand for?</p>
+
+<input type="radio"> Hyper Text Markup Language<br>
+<input type="radio"> High Text Machine Language<br>
+<input type="radio"> Hyper Tool Markup Language<br>
+
+<button>Submit</button>
+
+</body>
+</html>
