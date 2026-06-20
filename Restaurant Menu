@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Menu</title>
+</head>
+<body>
+
+<h1>Food Menu</h1>
+
+<table border="1">
+<tr>
+    <th>Dish</th>
+    <th>Price</th>
+</tr>
+
+<tr>
+    <td>Pizza</td>
+    <td>₹250</td>
+</tr>
+
+<tr>
+    <td>Burger</td>
+    <td>₹150</td>
+</tr>
+
+<tr>
+    <td>Pasta</td>
+    <td>₹200</td>
+</tr>
+
+</table>
+
+</body>
+</html>
