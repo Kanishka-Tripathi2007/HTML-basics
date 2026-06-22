@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Music Player</title>
+</head>
+<body>
+
+<h1>Now Playing</h1>
+
+<img src="album.jpg" width="200">
+
+<h2>Song Name</h2>
+<p>Artist Name</p>
+
+<button>Previous</button>
+<button>Play</button>
+<button>Next</button>
+
+</body>
+</html>
