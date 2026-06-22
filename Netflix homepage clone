@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Netflix Clone</title>
+</head>
+<body>
+
+<h1>NETFLIX</h1>
+
+<h2>Unlimited Movies, TV Shows and More</h2>
+
+<p>Watch anywhere. Cancel anytime.</p>
+
+<button>Get Started</button>
+
+</body>
+</html>
