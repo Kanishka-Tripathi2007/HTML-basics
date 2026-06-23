@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Age Calculator</title>
+</head>
+<body>
+
+<h1>Age Calculator</h1>
+
+<label>Enter Birth Year:</label>
+<input type="number">
+
+<button>Calculate Age</button>
+
+</body>
+</html>
