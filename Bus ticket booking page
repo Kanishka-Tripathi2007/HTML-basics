@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bus Booking</title>
+</head>
+<body>
+
+<h1>Bus Ticket Booking</h1>
+
+<form>
+    Source:
+    <input type="text"><br><br>
+
+    Destination:
+    <input type="text"><br><br>
+
+    Date:
+    <input type="date"><br><br>
+
+    <button>Book Ticket</button>
+</form>
+
+</body>
+</html>
