@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FAQ</title>
+</head>
+<body>
+
+<h1>Frequently Asked Questions</h1>
+
+<h3>What is HTML?</h3>
+<p>HTML stands for HyperText Markup Language.</p>
+
+<h3>What is CSS?</h3>
+<p>CSS is used for styling webpages.</p>
+
+</body>
+</html>
