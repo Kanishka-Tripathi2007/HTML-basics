@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Card</title>
+</head>
+<body>
+
+<h1>Profile</h1>
+
+<img src="profile.jpg" width="150">
+
+<h2>Kanishka Tripathi</h2>
+
+<p>B.Tech Student</p>
+
+</body>
+</html>
