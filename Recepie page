@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe</title>
+</head>
+<body>
+
+<h1>Chocolate Cake Recipe</h1>
+
+<h2>Ingredients</h2>
+
+<ul>
+    <li>Flour</li>
+    <li>Sugar</li>
+    <li>Milk</li>
+</ul>
+
+<h2>Steps</h2>
+
+<ol>
+    <li>Mix ingredients.</li>
+    <li>Bake for 30 minutes.</li>
+</ol>
+
+</body>
+</html>
