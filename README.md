@@ -26,9 +26,3 @@ A collection of beginner and intermediate HTML projects created to practice and 
 
 The purpose of this repository is to strengthen fundamental web development concepts and gain hands-on experience by building various projects.
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/html-projects.git
